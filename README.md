@@ -64,7 +64,7 @@ Você pode simular este projeto usando o **Wokwi**, uma plataforma online de sim
 
 ### Vídeo Demonstrativo
 
-🎥 *[https://youtu.be/4az9dmW84Cc?feature=shared]*
+🎥 *[https://youtu.be/FmDERlUK2YI?feature=shared]*
 
 ## Código Fonte
 
